@@ -1,10 +1,9 @@
-[
-  {
-    "id": "hello",
+{
+  "hello": {
     "title": "Hello World",
     "description": "First post!",
     "date": "2021-12-03T20:08:13.000Z",
     "categories": ["news", "engineering"],
     "authors": ["ben"]
   }
-]
+}
