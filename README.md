@@ -1,3 +1,3 @@
-# What’s next
+# What's next
 
 Nothing to see here
