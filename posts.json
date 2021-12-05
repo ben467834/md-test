@@ -11,13 +11,13 @@
     "description": "Second post!",
     "date": "2021-12-04T10:08:13.000Z",
     "categories": ["news", "engineering"],
-    "authors": ["ben"]
+    "authors": ["ben", "ben2"]
   },
   "hello2": {
     "title": "Hello World 2",
     "description": "Third post!",
     "date": "2021-12-04T11:08:13.000Z",
-    "categories": ["news", "engineering"],
+    "categories": ["engineering"],
     "authors": ["ben"]
   },
   "hello3": {

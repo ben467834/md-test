@@ -6,5 +6,13 @@
 			"short": "CEO and Software Engineer",
 			"long": ""
 		}
+	},
+	"ben2": {
+		"name": "Ben2",
+		"avatar": "",
+		"bio": {
+			"short": "Clone of Ben, for redundancy",
+			"long": ""
+		}
 	}
 }
